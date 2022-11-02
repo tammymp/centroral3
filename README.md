@@ -1,2 +1,2 @@
-# centroral3
-Pagina web de centroral en prueba
+# centroral
+pagina web de centroral
